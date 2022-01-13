@@ -21,6 +21,7 @@ container {
 }
 
 .header-right {
+    float: right;
     font-size: 14px;
     letter-spacing: 2px;
     color: #808080;
