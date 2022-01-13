@@ -33,8 +33,12 @@ li {
     margin-right: 40px;
 }
 
+li:hover {
+    font-color: #000
+}
+
 .top-img {
-    width: 800px;
-    height: 400px;
-    text-alighn: center;
+    width: 400px;
+    height: 800px;
+    text-align: center;
 }
